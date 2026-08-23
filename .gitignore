@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+
+afm_results/
+test_results/
+*.tmp
+
+# Keep local experimental data and generated annotations out of public commits.
+data/
+raw/
+标注/
+原图/
